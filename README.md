@@ -85,5 +85,3 @@ contract SubscriptionRenewalReminder {
 - **Deployed Contract Address**: [`0x00cd2CfE78aFe53E352AcBA1B15F14aE71Bf0169`](https://educhain-explorer.example.com/address/0x00cd2CfE78aFe53E352AcBA1B15F14aE71Bf0169) (Edu Chain Network)
 - **Edu Chain Explorer**: [Edu Chain Explorer](https://educhain-explorer.example.com)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
